@@ -1,6 +1,6 @@
 # CODSOFT-image-captioning
 Image Captioning using BLIP (Computer Vision + NLP)
-# Image Captioning AI
+# Image Captioning 
 
 This project generates captions for images using a transformer-based model (BLIP).
 
